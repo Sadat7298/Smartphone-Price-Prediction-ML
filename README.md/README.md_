@@ -1,0 +1,36 @@
+# Smartphone Price Prediction using Machine Learning
+
+## Project Overview
+This project predicts smartphone prices using Machine Learning by analyzing smartphone specifications,user information, and ratings.
+
+---
+## Objective
+The objective of this project is to build a machine learning model that predicts smartphone prices based on different features.
+
+---
+## Dataset
+This project uses three datasets:
+-cellphone_users.xlsx
+-cellphones_data.xlsx
+-cellphones.ratings.xlsx
+---
+## Technologies used
+-Python
+-Jupyter Notebook
+-Pandas
+-Numpy
+-Matplotlib
+-Seaborn
+Scikit-learn
+---
+## Features
+-Data Cleaning
+-Data Preprocessing
+-Exploratory Data Analysis(EDA)
+-Data Visualization
+-Machine Learning Model Training
+-Smartphone Price Prediction
+----
+
+## Author
+Sadat lone.
