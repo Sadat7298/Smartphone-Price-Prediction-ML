@@ -40,7 +40,7 @@ Generate accurate price predictions based on smartphone features.
 ---
 ## Project Workflow
 
-## Step 1- Data Collection
+## Step 1- Data Loading
 Import all three datasets into Jupyter Notebook.
 
 ## Step2- Data Cleaning
@@ -61,14 +61,19 @@ Count plots.
 Box plots
 Histograms
 
-## Step 6- Model Training
+## Step 5- Model Training
 The preprocessed dataset is divided into training and testing sets. Machine learning algorithms are trained using the training data to learn the relationship between smartphone features and prices.
 
-## Step 7- Model Evaluation
+## Step 6- Model Evaluation
+Evaluated the model using performance metrics such as:
 Mean Absolute Error(MAE)
 Mean Squared Error(MSE)
 Root Mean Squared Error(RMSE)
 R^2 Score
+Selected the model with the best accuracy.
+
+## Step 7- Prediction
+Used the trained model to predict the price of a Smartphone based on its specifications.
 
 ---
 
