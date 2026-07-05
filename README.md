@@ -25,9 +25,9 @@ Generate accurate price predictions based on smartphone features.
 ---
 ## Dataset
 This project uses three datasets:
-cellphone_users.xlsx - User Information.
-cellphones_data.xlsx - Smartphone specifications and details.
-cellphones_ratings.xlsx - User ratings and reviews.
+cellphone_users.xlsx :- User Information.
+cellphones_data.xlsx :- Smartphone specifications and details.
+cellphones_ratings.xlsx :- User ratings and reviews.
 ---
 
 ## Technologies Used
