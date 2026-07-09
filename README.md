@@ -1,4 +1,4 @@
-# Smartphone Price Prediction using Machine Learning
+# Smartphone Budget Prediction using Machine Learning
 
 ## Project Overview
 
